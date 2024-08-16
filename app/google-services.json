@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033024197497",
+    "project_id": "quick-idea",
+    "storage_bucket": "quick-idea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033024197497:android:180595a396ab7274aa15a8",
+        "android_client_info": {
+          "package_name": "com.example.quickidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033024197497-adusid6ubjkkoflk9jp500tovdb1tqbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickidea",
+            "certificate_hash": "dee4b54249dacb748780069d28db9ed93b792f35"
+          }
+        },
+        {
+          "client_id": "1033024197497-jl2rht0blfgcs2ohl5qrjfahjljcf9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_lqKPblKRffec-XOuhnZ5RgCUzn598A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033024197497-jl2rht0blfgcs2ohl5qrjfahjljcf9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
